@@ -1,4 +1,5 @@
 # Simplotel Frontend Assignment
+https://ankitao16.github.io/Simplotel/
 
 ## Overview
 This repository contains the frontend implementation for the Simplotel assignment. It demonstrates a simple hotel-related web page structure using HTML, CSS, and assets.
@@ -30,3 +31,4 @@ Simplotel/
 
 * The project is a basic frontend assignment and does not include backend functionality.
 * Styling is minimal and focuses on layout and structure.
+
