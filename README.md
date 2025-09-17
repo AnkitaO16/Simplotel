@@ -30,18 +30,3 @@ Simplotel/
 
 * The project is a basic frontend assignment and does not include backend functionality.
 * Styling is minimal and focuses on layout and structure.
-
-```
-
-✅ With this update, when you host on GitHub Pages, your site will open directly at:
-
-```
-
-[https://ankitao16.github.io/Simplotel/](https://ankitao16.github.io/Simplotel/)
-
-```
-
-without needing `/home.html`.  
-
-Do you want me to also **give the commands to rename `home.html` to `index.html` and push this README live**?
-```
