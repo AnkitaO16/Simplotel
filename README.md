@@ -3,6 +3,9 @@
 ## Overview
 This repository contains the frontend implementation for the Simplotel assignment. It demonstrates a simple hotel-related web page structure using HTML, CSS, and assets.
 
+## About the Assignment
+The goal of this assignment is to create a clean and structured frontend layout for a hotel-related website using standard web technologies. It focuses on proper file organization, semantic HTML, and basic styling.
+
 ## Technologies Used
 - HTML5
 - CSS3
@@ -12,16 +15,16 @@ This repository contains the frontend implementation for the Simplotel assignmen
 
 Simplotel/
 ├── assets/       # Images, icons, and other static assets
-├── home.html     # Main HTML page
+├── index.html    # Main HTML page (default entry for GitHub Pages)
 └── main.css      # Stylesheet for the page
-
 
 ## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/AnkitaO16/Simplotel.git
+````
 
-2. Open `home.html` in a web browser.
+2. Open `index.html` in a web browser.
 
 ## Notes
 
@@ -30,5 +33,15 @@ Simplotel/
 
 ```
 
-I can also **add a very short “About the Assignment” section** to highlight the purpose technically, if you want. Do you want me to do that?
+✅ With this update, when you host on GitHub Pages, your site will open directly at:
+
+```
+
+[https://ankitao16.github.io/Simplotel/](https://ankitao16.github.io/Simplotel/)
+
+```
+
+without needing `/home.html`.  
+
+Do you want me to also **give the commands to rename `home.html` to `index.html` and push this README live**?
 ```
